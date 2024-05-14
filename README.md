@@ -24,10 +24,10 @@ Abbiamo sviluppato un'app iOS personalizzata per rendere accessibili i grafici d
 
 ## Struttura del Repository
 
-- `Progetto_Colab/`: Contiene il progetto Colab.
-- `Power_BI/`: Contiene lo studio realizzato con Power BI.
+- `Colab/`: Contiene il progetto Colab.
+- `PowerBi/`: Contiene lo studio realizzato con Power BI.
 - `Bonita/`: Contiene la documentazione relativa al processo Bonita BPM.
 - `Streamlit/`: Contiene lo studio realizzato con Streamlit.
-- `APP_IOS/`: Contiene il codice sorgente dell'app iOS.
+- `EXTRA_APP_IOS/`: Contiene il codice sorgente dell'app iOS.
 
 Per maggiori dettagli su ciascun progetto, consulta la relativa directory.
